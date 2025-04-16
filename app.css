@@ -1,0 +1,36 @@
+body {
+    background-color: #f3e629;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0;
+  }
+  
+  h1 {
+    background-color: #d1540cfd;
+    color: black;
+    padding: 60px; 
+    margin: 0;
+  }
+  
+  a {
+    display: inline-block;
+    margin: 15px;
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+    
+  }
+  
+  h2 {
+    text-align: left;
+    color: #111010;
+  }
+   p {
+    text-align: left;
+    color: #9e3110;
+  }
+  h2+p+p+p{
+    color:black;
+  }
+  
+ 
